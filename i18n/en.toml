@@ -153,9 +153,9 @@
 [next]
     other = "Next"
 [noArticle]
-    other = "No articles to show."
+    other = "Them's the Breaks"
 [noArticlePost]
-    other = "It appears that our author ran out of coffee... Keep calm, we'll brew one shortly!"
+    other = "More info coming as soon as The Frenzy has finished his coffee. In the meantime, why don't you grab a Tee from our merch store: https://merch.themsthebreaks.com"
 [noComment]
     other = "No comments to display."
 [noGiscus]
