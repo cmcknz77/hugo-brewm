@@ -155,7 +155,7 @@
 [noArticle]
     other = "Them's the Breaks"
 [noArticlePost]
-    other = "More info coming as soon as The Frenzy has finished his coffee. In the meantime, why don't you grab a Tee from our merch store: <a href="https://merch.themsthebreaks.com">https://merch.themsthebreaks.com</a>"
+    other = "More info coming as soon as The Frenzy has finished his coffee. In the meantime, why don't you grab a Tee from our merch store: [https://merch.themsthebreaks.com](https://merch.themsthebreaks.com)"
 [noComment]
     other = "No comments to display."
 [noGiscus]
